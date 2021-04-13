@@ -12,6 +12,3 @@ telefone = input("Telefone: ")
 
 # Mostrando formulário na tela
 print("Nome:", nome, "\nCPF:", cpf, "\nEndereço:", endereco, "\nIdade:", idade, "\nAltura:", altura, "\nTelefone:", telefone)
-
-
-# Autora: bluisalima
