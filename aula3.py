@@ -12,5 +12,3 @@ if(idade > 17 and peso > 79 and altura > 1.69):
     print("Bem vindo ao Exercito!")
 else:
     print("Você não tem os requisitos.")
-
-# Autora: bluisalima
